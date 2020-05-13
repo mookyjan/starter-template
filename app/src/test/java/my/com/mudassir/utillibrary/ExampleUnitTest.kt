@@ -1,4 +1,4 @@
-package my.com.myeg.utillibrary
+package my.com.mudassir.utillibrary
 
 import org.junit.Test
 
