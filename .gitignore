@@ -12,3 +12,8 @@
 /captures
 .externalNativeBuild
 .cxx
+app/src/debug/gen
+app/src/main/gen
+/config-repo/
+
+/buildSrc/build/
